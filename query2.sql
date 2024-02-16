@@ -1,3 +1,5 @@
+-- Query 2: Write the queries that insert at least 10 videos, respecting the problem rules.
+
 INSERT INTO Music_Video (music_video_id, video_director, track_id) VALUES (1, 'John Doe', 100000);
 INSERT INTO Music_Video (music_video_id, video_director, track_id) VALUES (2, 'Jane Doe', 200000);
 INSERT INTO Music_Video (music_video_id, video_director, track_id) VALUES (3, 'Jack Doe', 300000);

@@ -1,3 +1,5 @@
+-- Query 4:  Write a query that lists all the customers that listen to longer-than-average tracks, excluding the tracks that are longer than 15 minutes. 
+
 SELECT DISTINCT 
     customers.CustomerId,
     customers.FirstName,
